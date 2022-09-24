@@ -1,4 +1,8 @@
-)import math
+#!/bin/python3
+
+#from cgi import print_environ
+import math
+from os import system
 import sys
 
 x = 2
@@ -67,5 +71,12 @@ print(2**26)
 
 print ("Hello, World!")
 
+print("WTF LOL.")
 
-exit
+print(sys.version)
+print(sys.byteorder)
+print(sys.argv)
+#print_environ
+#print(sys.builtin_module_names)
+
+exit()

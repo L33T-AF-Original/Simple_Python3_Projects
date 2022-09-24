@@ -1,13 +1,13 @@
 print ("Hello, World!")
 #list all imports first
-import json
-import random
+#import json
+#import random
 import math
-import ssl
-import os
-import subprocess
+#import ssl
+#import os
+#import subprocess
 #import pygame
-import pip
+#import pip
 #import
 from math import pi
 
@@ -25,7 +25,7 @@ print(name,"is",age,"years old.")
 if age >= 18 and age <100:
  print("What's up loser? Lol.")
 elif age < 18 and age > 0:
-    print("Go study.".upper)
+    print("Go study.")
 elif age != range(1, 100) :
     print("Really, fool.?")
 
@@ -55,4 +55,4 @@ _filename = str(pi)
 #        except:break 
 #       x = [list(input()) for _ in [0]*10] c=1;b=0 for i in range(10): for j in range(10): if x[j][i]=='1': b+=1;f(x,i,j) print("Number of islands:") print(b)	
 
-exit
+exit()

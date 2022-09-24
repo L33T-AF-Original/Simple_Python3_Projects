@@ -1,4 +1,6 @@
-print(First Repository. Committed from linux terminal)
+#!bin/python3
+
+print("First Repository. Committed from linux terminal")
 #Hopefully this works and posts to Github.
 
 # Please enter the commit message for your changes. Lines starting
